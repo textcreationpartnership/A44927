@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of pluralities (with the appendant non-residence) evincing the great evil and necessary duty of forsaking them by him that would approve himself a faithful minister of God.</title>
+            <author>Hughes, William, b. 1624 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44927</idno>
+            <idno type="STC">Wing H3340</idno>
+            <idno type="STC">ESTC R30349</idno>
+            <idno type="EEBO-CITATION">11299157</idno>
+            <idno type="OCLC">ocm 11299157</idno>
+            <idno type="VID">47348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of pluralities (with the appendant non-residence) evincing the great evil and necessary duty of forsaking them by him that would approve himself a faithful minister of God.</title>
+                  <author>Hughes, William, b. 1624 or 5.</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata at end.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Benefices.</term>
+               <term>Benefices, Ecclesiastical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47348:1"/>
+            <pb facs="tcp:47348:1"/>
+            <p>A DISCOURSE OF PLURALITIES; (With the APPENDANT NON-RESIDENCE) Evincing the Great EVIL in TAKING, And Neceſſary DUTY of FORSAKING Them: By him that would approve himſelf a faithful Miniſter of God.</p>
+            <q>
+               <p>Take heed unto <hi>your ſelves,</hi> and to <hi>all the Flock,</hi> over which the Holy Ghoſt hath made you Overſeers,</p>
+               <bibl>
+                  <hi>Act. 20.28.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For the love of Money is the Root of all Evil, but thou, <hi>O man of God,</hi> flee theſe things,</p>
+               <bibl>
+                  <hi>1 Tim. 6.10, 11.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Parkhurſt</hi> at the Sign of the <hi>Bible</hi> and <hi>Three Crowns</hi> in the lower end of <hi>Cheapſide.</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:47348:2"/>
+            <pb facs="tcp:47348:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Curteous Reader,</salute>
+            </opener>
+            <p>THere was lately Publiſhed a little Piece, Intituled, <hi>An Endeavour for Peace among Proteſtants.</hi> the aim where<g ref="char:EOLhyphen"/>of was upon Chriſtian, Charitable, and Safe Condeſcenſions on the Churches part, (as the Author thought) to reconcile unto her Com<g ref="char:EOLhyphen"/>munion thoſe who moſt unhappily had been ſo long Diſſenters from it. What the ſucceſs thereof will prove, 'tis only time can afford a Judgment. But the mean while, 'tis very evi<g ref="char:EOLhyphen"/>dent, <hi>That Pluralities</hi> (the Poſſeſſors and Abettors whereof are both ſo numerous and ſo powerful) <hi>muſt be Back-friends to the Deſign, which is built on Self-denial;</hi> be<g ref="char:EOLhyphen"/>ſides the many other Injuries, that they are guilty of towards <hi>God,</hi> our <hi>State</hi> and <hi>Church</hi> therein; as will be ſeen hereafter. If therefore this Diſcourſe (which owneth its Original meerly to thoſe Thoughts) ſhall, by the Almighty's bleſſing, proſper any thing towards
+<pb facs="tcp:47348:3"/>the Cure of ſuch an Evil, the Author will re<g ref="char:EOLhyphen"/>ceive an Ample Reward. However; his <hi>Work is with the Lord, and Labour ſhall not be in vain in him.</hi> But his Prayer muſt be, That Goſpel Miniſters may ever <hi>ſerve the Lord Jeſus, and not their own Belly: not ſeeking their own, but the things which are Jeſus Chriſts:</hi> and that theſe Papers may be ſerviceable to the purpoſe, whereto all good men, whether others <hi>hear or do forbear,</hi> will readily ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47348:3"/>
+            <head>AGAINST PLURALITIES.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I nothing doubt,<note place="margin">
+                  <hi>§. 1.</hi> Introduction.</note> but that ſome <hi>good</hi> and <hi>honeſt minds,</hi> (what with the laws connivance at it, others example in it, and their own defect of ſerious thoughts about it) have been unhappily ſnared in the fouleſt guilt of holding <hi>More-Cures-than-one,</hi> the very <hi>diſtance</hi> whereof bars all poſſibility of their diſcharging duly the Duties that belong unto them; yet there is cauſe to fear, that in the Crowd of ſuch Delinquents, there may be others found, who are plainly of their number, on whom the bleſſed <hi>Paul</hi> imprints that blackeſt Cha<g ref="char:EOLhyphen"/>racter of <hi>Supppoſing Gain Godlineſs.</hi> And certain 'tis, that this <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian Practice</hi> gives but too much occaſion to the People, for crying out of <hi>All</hi> therein engag'd, in St. <hi>Peters</hi> words, That <hi>through Cove<g ref="char:EOLhyphen"/>touſneſs they do make Merchandiſe of them.</hi> For who can ſee a Perſon ſetled in a Benefice, which doth not only comfortably ſupport him, and his Family, but hath to ſpare, (the common Caſe, and <hi>here</hi> re<g ref="char:EOLhyphen"/>flected on) yet graſping on another, that he cann't attend one, but will be apt to conclude; <hi>'Tis not the work of Chriſt, but Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs, whereto he is a Votary?</hi> And, how many ſuch <hi>ſad Spe<g ref="char:EOLhyphen"/>ctacles</hi> may a <hi>little</hi> Traveller in this Kingdom meet with? and yet, the wonder is not great, if <hi>now,</hi> as <hi>heretofore;</hi> and in <hi>this Church</hi> as well as in the <hi>Primitive,</hi> men ſhall be found, and in the <hi>Sacred Office,</hi>
+               <pb n="2" facs="tcp:47348:4"/>who <hi>ſerve not our Lord Jeſus, but their own Bellies.</hi> The faireſt Crop of <hi>Wheat</hi> may have ſome Tares therein. <hi>Honey</hi> it ſelf is not without its filth and ſcum: nor is the richeſt <hi>Ore</hi> quite free from Droſs. It ought not therefore to caſt a worſe reflection on the <hi>Engliſh Clergy,</hi> that <hi>ſome bad men</hi> creep in a<g ref="char:EOLhyphen"/>mong them; than 'twas diſgraceful to the <hi>Bleſſed Apoſtles,</hi> that <hi>Judas</hi> was of their Society. 'Tis pity any ſhould be ſo like <hi>him,</hi> as to pretend <hi>Chriſts ſer<g ref="char:EOLhyphen"/>vice,</hi> when they only mean <hi>their own,</hi> by carrying of <hi>his</hi> Bag. And thoſe concerned ought to beſtow ſad thoughts upon it; that though <hi>that wretch</hi> made ſhift a while; ſevereſt Vengeance was not long in overtaking of him: yea, 'tis obſervable, that his <hi>Hypocriſie</hi> was no ſooner manifeſted, than Notori<g ref="char:EOLhyphen"/>ouſly ſtigmatized alſo, <hi>John</hi> 12.6. A fair direction for guiding <hi>us</hi> upon the like occaſion! who may not <hi>therefore</hi> ſpare their <hi>open great miſcarriage;</hi> that, ſeeming to be <hi>Chriſts Diſciples,</hi> do tread ſo plainly in <hi>his</hi> Steps, that did betray him. I will not ſay to the <hi>Non-reſident Pluraliſt,</hi> as <hi>Nathan</hi> did to <hi>David, Thou art the man;</hi> yet, cannot but with grief ob<g ref="char:EOLhyphen"/>ſerve they are too like, in this reſpect; Both <hi>ſeek their own, and not the things which are Jeſus Chriſts.</hi>
+            </p>
+            <p>For 'tis notorious,<note place="margin">
+                  <hi>§. 2.</hi> Caſe ſtated.</note> that we have great numbers of thoſe Miniſters in this diſtreſſed Church, <hi>whom a Single Cure of Souls,</hi> (ſufficient to make a ſerious man cry out with <hi>Paul, Who is ſufficient for it?) although endowed, not only with a Competent, but</hi> abundant <hi>Maintenance, cannot content; but they muſt ſeize upon another, the remote diſtance whereof, beſides the moſt important and tremendous work belonging thereunto, makes it impoſſible, that</hi> both <hi>ſhould be attended by them.</hi> A courſe, ſo <hi>evil in it ſelf,</hi> and of ſo <hi>bad,</hi> and <hi>fatal</hi> Influence, both on our Church
+<pb n="3" facs="tcp:47348:4"/>in general, the particular Congregations that are concerned, and thoſe Miniſters own Immortal Souls, that words are wanting, fully to Expreſs the vileneſs of it. Surely 'tis no raſh Sentence in him that ſaith; <hi>Pluralities are the Peſt of the Church, and Bane of our Religion.</hi> Which, I ſhall hope, will not be diſ<g ref="char:EOLhyphen"/>appointed of all <hi>good mens</hi> Suffrages, even <hi>thoſe</hi> that hitherto may by ſurpriſe have been entangled in this ſnare, when once they hear what <hi>Cogent Arguments</hi> lye againſt it, and what <hi>Clear Anſwers</hi> unto all Pleas for it. Of both theſe in their order; and as briefly, as the Caſe will bear.</p>
+            <p>The Arguments are theſe that follow; 1.<note place="margin">
+                  <hi>§ 3.</hi> Arguments againſt Plura<g ref="char:EOLhyphen"/>lities.</note> 
+               <hi>They war againſt Scripture;</hi> 2. <hi>Antiquity is a Stranger to them;</hi> 3. <hi>They are doom'd by Councils;</hi> 4. <hi>Are a<g ref="char:EOLhyphen"/>gainſt Juſtice;</hi> 5. <hi>And Charity;</hi> 6. <hi>And Honour;</hi> 7. <hi>And Prudence;</hi> 8. <hi>Serving only to Vice, and naugh<g ref="char:EOLhyphen"/>tineſs.</hi>
+            </p>
+            <p n="1">1.<note place="margin">
+                  <hi>1.</hi> Argument againſt Scrip<g ref="char:EOLhyphen"/>ture.</note> 
+               <hi>Pluralities make open War againſt the Scriptures;</hi> I mean not only, becauſe there is not in them any Title of <hi>Precept,</hi> or <hi>Example,</hi> to encourage them: but they are plainly condemned <hi>there.</hi> Should any ask for a <hi>Particular Law in Terms</hi> unto this purpoſe; it might not happily be abſurd to anſwer, that,<note place="margin">Ap. <hi>Plutarch, Romul.</hi>
+               </note> as <hi>Ro<g ref="char:EOLhyphen"/>mulus</hi> made not any ſuch againſt <hi>Parricide,</hi> becauſe he judged ſo great a Villany was not incident unto human nature; ſo probably the <hi>Sacred Pen-men</hi> might in this caſe forbear, as being loath to think that <hi>ſuch a Monſter</hi> ſhould e're be hatch'd in the Church of Chriſt. And give me leave to note it, that, as <hi>Rome</hi> could not afford an inſtance of that Unnatural Barbariſm until about ſix hundred years were paſt from the building of that City: So <hi>Chriſti<g ref="char:EOLhyphen"/>anity</hi> was not peſterd with this grievous Plague, till full as many years, or more, had been elapſed from
+<pb n="4" facs="tcp:47348:5"/>the firſt Birth and Infancy of the ſame. But this is not intended as a ſhift; for that is utterly need<g ref="char:EOLhyphen"/>leſs; as he muſt ſee, who will obſerve how plainly, <hi>Holy Writ</hi> doth;<note place="margin">Manifeſted two ways.</note> 1. <hi>Condemn Ambition, Covetouſneſs, and Sloth, as bad in all, but ſtark naught in Mini<g ref="char:EOLhyphen"/>ſters;</hi> which they ſhould flee from, as from Hell it ſelf; from whence they come, and whereunto they go: And <hi>2ly. Command Perſonal Attendance on their ſeveral Flocks,</hi> from thoſe that have them; without any Diſpenſation, <hi>ordinarily,</hi> in the Caſe.</p>
+            <p>Touching the <hi>Former;</hi>
+               <note place="margin">Firſt, <hi>Scr.</hi> condemns Am<g ref="char:EOLhyphen"/>bition, Cove<g ref="char:EOLhyphen"/>touſneſs, and Sloth in Mini<g ref="char:EOLhyphen"/>ſters.</note> that <hi>Ambition, Covetouſ<g ref="char:EOLhyphen"/>neſs and Sloth are ſo condemned in the Miniſter;</hi> ſhould any ask me, <hi>what is this unto our purpoſe?</hi> He may as well demand, Why Sin is blam'd for all our Mi<g ref="char:EOLhyphen"/>ſeries? 'Tis not more manifeſt, that all our <hi>Wo</hi> doth ſpring from <hi>Sin;</hi> Than that <hi>Pluralities</hi> do owe their being to thoſe wicked Parents, <hi>Covetouſneſs, Ambi<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Sloth;</hi> For when there is before <hi>Enough,</hi> and <hi>Spare:</hi> (as was ſuppoſed) it is impoſſible to aſſign <hi>any other real cauſe</hi> of graſping after more, but to maintain their <hi>Lazineſs, Pride,</hi> and <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>And when the <hi>diſciples</hi> of our <hi>Saviour</hi> had a ſpice of one of thoſe <hi>Diſeaſes;</hi> doth he not preſently apply himſelf unto the Cure, and clap a <hi>Corroſive</hi> to the Proud Fleſh, which was growing up? He tells them, 'twas a <hi>Heatheniſh Plant,</hi> and ſhould not grow in <hi>Chriſtian Soil;</hi> by no means, in the <hi>Holy Sanctuary: It ſhall not be ſo among you,</hi> Matth. 20.25.26. Doth not <hi>be that lodged in his Maſters boſom,</hi> ſet a black brand upon <hi>Diotrephes,</hi> for his aſpiring humor? 3 <hi>John</hi> 9.10. How doth the great Apoſtle of <hi>Vs Gentiles,</hi> charge his <hi>dear Timothy,</hi> to beware of <hi>loving Money, the Root of all Evil;</hi> when he ſaith, <hi>Thou, O man of God, flee theſe things,</hi> 1 Tim. 6.10.11.
+<pb n="5" facs="tcp:47348:5"/>And <hi>he of the Circumciſion,</hi> baniſh <hi>all filthy lucre</hi> from the Miniſters Eyes, in taking up a <hi>Single Charge,</hi> 1 <hi>Pet.</hi> 5.2. What <hi>Death,</hi> do we think, would he have doom'd it to; had he perceived it gotten into the heart of any, to make him graſp for <hi>more</hi> than <hi>one?</hi> yea, and to ſhew us, how <hi>naturally,</hi> curſed <hi>sloth,</hi> and <hi>Negligence</hi> attend the other <hi>Two;</hi> long be<g ref="char:EOLhyphen"/>fore them all, the <hi>prophet</hi> calls ſuch Miniſters, <hi>Dumb Dogs that cannot (at leaſt will not) bark, ſleeping, lying down, loving to ſlumber; yea, greedy Dogs, which can never have enough; Shepherds that cannot underſtand, looking all to their own way, every one for his gain from his Quarter,</hi> Eſai. 56.11. But why ſhould I light a Candle to the Sun, or ſpend more words in a Caſe ſo plain? To quote all places in the Scripture againſt theſe <hi>Vices,</hi> particularly this <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> (<hi>Col.</hi> 3.5.) and in <hi>Miniſters</hi> eſpecially; would be to tranſcribe good part of the Holy Bible.</p>
+            <p>As for the <hi>Latter, That Perſonal attendance on their Flock</hi> is indiſpenſibly required of Miniſters,<note place="margin">Secondly, re<g ref="char:EOLhyphen"/>quireth Perſo<g ref="char:EOLhyphen"/>nal Attendance on their Flocks.</note> 
+               <hi>Ordinarily;</hi> the Scriptures are as full unto <hi>this</hi> like<g ref="char:EOLhyphen"/>wiſe. There may ſometimes, and for a while per<g ref="char:EOLhyphen"/>haps, be <hi>juſt occaſion</hi> of the Miniſters abſence; on which neceſſity, he may paſs guiltleſs both with God and Men. But to do this <hi>Ordinarily,</hi> or for a <hi>Con<g ref="char:EOLhyphen"/>ſtancy,</hi> and meerly <hi>out of Choice,</hi> as well as plainly for ſome <hi>Secular Intereſt;</hi> This will not be diſpenſed with in the <hi>Court of Heaven,</hi> whatever Diſpenſati<g ref="char:EOLhyphen"/>ons may be gotten here on Earth. The Apoſtle doth command the <hi>Epheſian Elders,</hi>
+               <note place="margin">Act. <hi>20.28.</hi>
+               </note> Acts 20.28. <hi>to take heed unto themſelves and to all the Flock, over which the Holy Ghoſt had made them Overſeers, and to feed the Church.</hi> That the <hi>Elders</hi> here, were <hi>Miniſters,</hi> is out of queſtion: and that they were meerly <hi>Preſ<g ref="char:EOLhyphen"/>byters,</hi> and not <hi>Biſhops,</hi>
+               <note place="margin">Comment i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tit. 1.</hi>
+               </note> St. <hi>Jerom</hi> confidently affirm<g ref="char:EOLhyphen"/>eth:
+<pb n="6" facs="tcp:47348:6"/>to be ſure! they are charg'd in their <hi>own Perſons</hi> to attend the Flock; as plainly, as words can ſpeak is. And note it, the ſelf ſame way that they are call'd upon to tend their <hi>own Souls,</hi> they are required to attend the <hi>Flock:</hi> for ther's but one <hi>taking heed,</hi> which ſerves for <hi>Both.</hi> And ſurely that was not to be <hi>By Another,</hi>
+               <note place="margin">Numb. <hi>18.</hi> In<g ref="char:EOLhyphen"/>fra.</note> and without <hi>Themſelves.</hi> But the <hi>wretched Shift of doing this by Another,</hi> was not then born; and ſhall be hereafter handled by us, ac<g ref="char:EOLhyphen"/>cording to its merit: mean while, I would fain know, how <hi>Pluraliſts</hi> can with any reaſon be ſuppoſed to be made <hi>Overſeers by the Holy Ghoſt</hi> of that Flock; which, after they have ſeized on, they hardly <hi>ever ſee;</hi> or to no other purpoſe, but to <hi>Fleece,</hi> not <hi>Feed them:</hi> St. <hi>Paul,</hi> while he ſtaid there at <hi>Epheſus</hi> in his own Perſon, both <hi>taught them publickly, and from houſe to houſe, vid.</hi> 20.<note place="margin">Vid. <hi>20.</hi>
+               </note> And propoſed that Pra<g ref="char:EOLhyphen"/>ctice for the Presbyters imitation. And do not our <hi>Non-reſidents</hi> keep very cloſe unto this Copy? They have their ſeaſons, I confeſs, to go from <hi>houſe to houſe,</hi> and not omit the <hi>pooreſt:</hi> but 'tis to call for, and exact their Dues;<note place="margin">How many pluraliſts are there in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that hard<g ref="char:EOLhyphen"/>ly ſee either of their livings in a year? Sir <hi>S. Degge a ſtre<g ref="char:EOLhyphen"/>nuous Contra-Pluraliſt,</hi> Parſ. Counſ. Part. <hi>1.</hi> ch. <hi>4. 1</hi> Theſ. <hi>5.12.13.</hi>
+               </note> For other Doctrines, they are ſo far from doing any thing like to the keeping <hi>Conven<g ref="char:EOLhyphen"/>ticles;</hi> that the <hi>Temple</hi> ſhall not ſee them in a <hi>Twvelve mouths time together;</hi> or more, perhaps. Can we imagine that this ſame Apoſtle, when in another place, 1 <hi>Theſ.</hi> 5.12.13.) he doth beſeech the People, <hi>to know them that</hi> Laboured among them, <hi>and were over them in the Lord, and</hi> did admoniſh them; <hi>and to eſteem highly of them for</hi> their works ſake; can we, I ſay, imagine, that he ſhould ever mean <hi>Pluraliſts</hi> and <hi>Non-reſidents;</hi> that are ſo far from <hi>Admoniſhing, Labouring,</hi> and <hi>Working</hi> with them, that they are not among them? Nay, is it not moſt evident <hi>hence,</hi> that <hi>all who take the Care of Souls
+<pb n="7" facs="tcp:47348:6"/>upon them, ſhould both be Preſent; yea, and Painful likewiſe, with their People?</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: gre<g ref="char:EOLhyphen"/>gem, qui a vo<g ref="char:EOLhyphen"/>bis pendet; uti apud <hi>Sopho<g ref="char:EOLhyphen"/>clem,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, abs te pendemus, <hi>Bez.</hi> in loc. <hi>1</hi> Pet. <hi>5.2, 3.</hi>
+               </note> Doth not the Apoſtle <hi>Peter</hi> therefore to this purpoſe, charge the Elders <hi>to feed the Flock of God, that is</hi> among them; that is, whereof they have the Care: and <hi>to be enſamples to them,</hi> (1 <hi>Pet.</hi> 5.2, 3.) And are not they marvellouſly likely <hi>to do thus</hi> for them, and <hi>be thus</hi> to them, that are at twenty, fourty, or a hundred miles diſtance from them; Miniſters ſhould be indeed the <hi>Light of the World:</hi> but be they ſnuff'd ne're ſo well, and ſhine they never ſo bright, thoſe that are <hi>ſo far</hi> from them, may walk in darkneſs notwithſtanding. Were it <hi>indeed</hi> believed by <hi>Non-reſidents,</hi> that <hi>they muſt give an account to God for the Souls they undertook the charge of;</hi> (and they acknowledge to the Biſhop, when they are admitted, that they accept ſo great a Care) they would ſurely <hi>watch,</hi> and know that they could not do ſo unto any purpoſe, except they kept upon the Spot, where the danger is. That they muſt anſwer thus, and therefore ought <hi>to watch ſo,</hi> as we ſpeak, is clear by <hi>Hebr.</hi> 13.17.<note place="margin">Hebr. <hi>13.17.</hi>
+               </note> 
+               <hi>They watch for your Souls, as they that muſt give account.</hi> And then, what man may ſafely dare to take <hi>another,</hi> and a <hi>diſtant Cure;</hi> where he can never do the <hi>Watchmans part?</hi> For, being abſent, he can give no warning; for want of warning, the Sinner dieth in his Iniquity; and the <hi>blood of him ſo dying, will God require at this falſe Watchmans band,</hi> Ezek. 3.18.<note place="margin">Ezek. <hi>3.18.</hi>
+               </note> If Perſonal Attendance were no Duty, why ſhould our Saviour brand that Shepherd for an Hireling, that fleeth when the Wolf is coming, <hi>John</hi> 10.12. And,<note place="margin">John <hi>10.12.</hi>
+               </note> what's the difference 'twixt <hi>fleeing from, and not coming at</hi> the Flock? <hi>Both</hi> equally expoſe it unto danger; yea, may not <hi>they</hi> be ſtrictly ſaid to flee, and leave the Sheep; who, after their Induction, come not at them,
+<pb n="8" facs="tcp:47348:7"/>ſave to fleece them? Was not <hi>Peter</hi> bound, if he lov'd his Lord, to <hi>feed his Lambs</hi> and <hi>Sheep</hi> in Perſon, <hi>John</hi> 21.<note place="margin">John <hi>21.</hi>
+               </note> nothing more manifeſt. But to produce more <hi>Scripture-Teſtimonies,</hi> would be the pouring wa<g ref="char:EOLhyphen"/>ter into the Ocean; I ſhall therefore beg <hi>Non-Reſident Pluraliſts</hi> to obſerve with ſadneſs, what a <hi>dreadful Wo</hi> God hath denounced againſt <hi>thoſe Shepherds that feed themſelves,</hi>
+               <note place="margin">Ezek. <hi>34.2.</hi> &amp;c.</note> 
+               <hi>and not the Flock,</hi> in Ezek. 34.2, 3, 4, to <hi>verſ.</hi> 11. <hi>Son of Man, Propheſie againſt the Shep<g ref="char:EOLhyphen"/>herds of</hi> Iſrael, <hi>Propheſie and ſay unto them, Thus ſaith the Lord God unto the Shepberds, Wo be to the Shepherds of</hi> Iſrael <hi>that do feed themſelves: ſhould not the Shepherds feed the Flock? Ye eat the fat, and ye Cloth you with the Wool, ye kill them that are fed: but ye feed not the Flock. The Diſeaſed have ye not ſtrengthened, neither have ye healed that which was ſick, neither have ye bound up that which was broken, neither have ye brought again that which was driven a<g ref="char:EOLhyphen"/>way, neither have ye ſought that which was loſt; but with force and with cruelty have ye ruled them. And they were ſcattered, becauſe there is no Shepherd: and they became meat to all the Beaſts of the Field, when they were ſcattered. My Sheep wandred through all the mountains, and upon every high hill: yea, my Flock was ſcattered upon all the face of the Earth, and none did ſearch or ſeek after them. Therefore, ye Shepherds, hear the Word of the Lord; As I live, ſaith the Lord God, ſurely, becauſe my Flock became a prey, and my Flock became meat to every Beaſt of the Field, becauſe there was no Shepherd, neither did my Shep<g ref="char:EOLhyphen"/>herds ſearch for my Flock, but the Shepherds fed themſelves, and fed not my Flock: Therefore, O ye Shepherds, hear the Word of the Lord; Thus ſaith the Lord God, Behold, I am againſt the Shepherds, and I will require my Flock at their hand, and cauſe
+<pb n="9" facs="tcp:47348:7"/>them to ceaſe from feeding the Flock, neither ſhall the Shepherds feed themſelves any more; for, I will deliver my Flock from their mouth, that they may not be meat for them.</hi> And ſurely, if <hi>Non-reſident Plu<g ref="char:EOLhyphen"/>raliſts</hi> are not quite <hi>paſt feeling;</hi> they muſt be ſen<g ref="char:EOLhyphen"/>ſible, that <hi>they are the men concerned therein. Perſo<g ref="char:EOLhyphen"/>nal neglects</hi> are <hi>there</hi> complain'd of: and that's <hi>their guilt;</hi> and unavoidably ſo. And <hi>Perſonal Vengeance</hi> is <hi>there</hi> threatned, on <hi>all ſuch Delinquents:</hi> from which, by timely Repentance, <hi>may the Good Lord deliver them.</hi>
+            </p>
+            <p>So much for the firſt Argument, <hi>Pluralities war againſt the Scriptures:</hi> wherein we have ſpent more words, becauſe it is of greateſt conſequence; the reſt will be diſpatched ſooner.</p>
+            <p n="2">2. <hi>Antiquity is an utter Stranger hereunto:</hi>
+               <note place="margin">
+                  <hi>§ 4. 2d.</hi> Argument againſt Anti<g ref="char:EOLhyphen"/>quity.</note> I may ſafely ſay, a <hi>bitter Enemy</hi> to the <hi>Roots,</hi> and <hi>Seeds</hi> hereof; <hi>Sloth, Pride,</hi> and <hi>Covetouſneſs,</hi> in the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel: Rebukes, both <hi>frequent,</hi> and <hi>ſevere,</hi> againſt theſe Vices (as well as others) may be met with in the <hi>Ancient Fathers.</hi> But not one Title about <hi>that,</hi> we now are dealing with. The truth is, This <hi>Piece of Naughtineſs</hi> was only in the womb; not midwif'd into the world as yet. Twill not ſerve the turn to tell us; That the Church was under Per<g ref="char:EOLhyphen"/>ſecution in thoſe <hi>Elder days;</hi> and <hi>then</hi> there was not ſuch Proviſion made for Miniſters, as hath been ſince: For, though <hi>ſome part</hi> hereof be true; the <hi>whole</hi> is not. I hope at <hi>Conſtantine</hi>'s time, there was no cauſe to complain in either of thoſe reſpects: Both <hi>Cruel Perſecution</hi> then was gone, and <hi>Great Proſpe<g ref="char:EOLhyphen"/>rity</hi> did ſucceed it: but how much to the Churches benefit, let the Reader judge by St. <hi>Jerome</hi>'s words.<note place="margin">Part <hi>3.</hi> E<g ref="char:EOLhyphen"/>piſt. <hi>43. de vita</hi> CaptrMon.</note> He tells us, That <hi>the Church of Chriſt did thrive by Perſecutions, was crown'd with Martyrs: but when
+<pb n="10" facs="tcp:47348:8"/>Chriſtian Princes were in power, Her riches did in<g ref="char:EOLhyphen"/>deed increaſe, but vertues decreaſe.</hi> And this was that which gave occaſion to the well-known Proverb; <hi>piety was brought-a-bed with Plenty, and the Daughter choak'd her Mother.</hi> But notwithſtanding ſuch de<g ref="char:EOLhyphen"/>generacy then, we have no notice, that this foul <hi>Cor<g ref="char:EOLhyphen"/>ruption</hi> of Church-mens <hi>Spiritual Bigamy</hi> did any where prevail in the Church for the firſt <hi>Six hundred years.</hi> No inſtance can be found (upon my beſt en<g ref="char:EOLhyphen"/>quiry) of any Miniſters taking <hi>two Wives</hi> at once: or rather a <hi>Concubine</hi> to his <hi>Wife,</hi>
+               <note place="margin">Hiſt. of Counſ. of Trent. lib. <hi>2. ad ſin. Anno Dom. 1546. Engl.</hi> Edit. page <hi>217.</hi>
+               </note> to vex her; I mean a <hi>Second Church, unto his former. A learned and excellent Author,</hi> faith this boldly; <hi>Never any thought to hold the Title of an Office, or enjoy the Profit with<g ref="char:EOLhyphen"/>out doing Service;</hi> but <hi>only after the year ſeven hun<g ref="char:EOLhyphen"/>dred in the Weſtern Church. And as before a Perſon was choſen ſit for the neceſſity of the Church; ſo after<g ref="char:EOLhyphen"/>wards, a Degree, Dignity, or Emolument was fitted to the Quality of the Perſon: from whenoe aroſe</hi> the exerciſing of the Miniſtery by a Subſtitute. Behold by this the <hi>Venerable Hoary Hairs of Curates, and their Maſters, Pluraliſts!</hi> with whom the Chriſtian Church was utterly unacquainted, till <hi>Popery</hi> had invaded it; and the <hi>Univerſal Biſhop</hi> gotten to be Tyrant over it. It ſhould ſeem indeed, that <hi>ſome ſuch Creatures</hi> were creeping into the Church before, about four hundred and fifty years after Chriſt; but they were quickly diſorder'd, and as ſoon repuls'd by the <hi>Council of Chalcedon,</hi>
+               <note place="margin">Infr. Argu<g ref="char:EOLhyphen"/>ment <hi>3.</hi>
+               </note> conſiſting of ſix hundred and thirty Biſhops: as we ſhall hear anon. And the Attempt was reinforced near two hundred years after this Council: but <hi>Gregory the Great,</hi> then Biſhop of <hi>Rome,</hi> and juſt before the <hi>Man of Sin</hi> was mounted on his Throne,<note place="margin">Diſt. <hi>89.</hi> c. <hi>1. Singula.</hi>
+               </note> cruſh'd it in the Shell: as may be ſeen by his Letter extant in the <hi>Decrees:</hi> wherein he
+<pb n="11" facs="tcp:47348:8"/>Orders, <hi>That the ſeveral Duties belonging to the Church ſhould be committed unto ſeveral men: and that no one Perſon, how well ſoever experienced, ſhould at one time hold a double Service.</hi> Thus long you ſee the <hi>Ancient Church</hi> was not acquainted with our <hi>Pluraliſts;</hi> or laid their Ax unto the very <hi>Root</hi> there<g ref="char:EOLhyphen"/>of, when once they found it. Tis true that ſome time after (as alſo hath before been noted) <hi>this Miſ<g ref="char:EOLhyphen"/>chief,</hi> with a Crowd of others, came in, as a Re<g ref="char:EOLhyphen"/>teiner unto <hi>Antichriſt.</hi>
+            </p>
+            <p n="3">3.<note place="margin">§. 5. <hi>3d.</hi> Argument againſt Church Canons.</note> 
+               <hi>This Practice hath been doom'd too by ſeveral Councils; and many Canons of the Church have paſs'd againſt it:</hi> Methinks, it doth betray its guilt, by the very face thereof. Are not <hi>theſe Craftsmen</hi> glad to get their <hi>Licences,</hi> and <hi>Diſpenſations</hi> to ſet up with? <hi>Were there no Tranſgreſſion,</hi> Plain men would ask, <hi>What need of Diſpenſation?</hi> The Canons of our Church, 'tis thought, are not ſevere enough againſt it: and yet they have not the faireſt aſpect on it neither. Witneſs the<note n="*" place="margin">Vid Can. <hi>41.</hi>
+               </note> 
+               <hi>Many Reſtrictions, neceſſity of Reſidence, and ſufficiency of the Curate,</hi> that is injoyned. Howe're, St. <hi>Auguſtins Plea</hi> doth her good ſervice too. <hi>'Tis one thing</hi> (ſaith he) <hi>what the Church doth tolerate; and another, what She teacheth.</hi>
+               <note place="margin">Aliud eſt quod docemus, aliud quod ſuſtinemus &amp;c. <hi>Contr. Fauſt.</hi> l. <hi>20.</hi> c. <hi>prope ſin.</hi>
+               </note> 'Tis only <hi>that,</hi> not <hi>this,</hi> may be imputed unto <hi>Her.</hi> And yet it muſt be ſaid, <hi>(however it may reflect upon us)</hi> that <hi>other Churches,</hi> both long before any Refor<g ref="char:EOLhyphen"/>mation had been made; and ſince it too; and which bear a Mortal hatred <hi>thereunto,</hi> have made moſt <hi>ſmart Decrees</hi> againſt it. For the <hi>Reformed Churches</hi> abroad, I need not be concerned to produce their Cenſures of it; till it be made appear, which of them have e're been troubled with it. Well then, the <hi>firſt Cannon</hi> planted againſt pluraliſts, that I ſhall mention; is that of the <hi>Laterane Council</hi> under <hi>Alexander</hi> the third and about
+<pb n="12" facs="tcp:47348:9"/>the year 1180.<note place="margin">Tom. concil. <hi>3.</hi> Can. <hi>13.</hi>
+               </note> The words are theſe; <hi>Becauſe ſome men, putting no bounds unto their Covetouſneſs, endeavour to get Eccleſiaſtical Dignities, and more than one Pa<g ref="char:EOLhyphen"/>riſh Church, contrary to the Order of the Holy Ca<g ref="char:EOLhyphen"/>nons: ſo as when they are hardly fit to diſcharge</hi> one mans <hi>Duty, they receive the Wages of ſeveral: We ſtrictly command, that it be never ſo done any more hereafter. When therefore a Church is to be diſpoſed of, let ſuch a Perſon be found out, as will</hi> Reſide <hi>there, and diſcharge the Cure</hi> himſelf: <hi>Otherwiſe the</hi> Receiver <hi>ſhall loſe what he hath taken,</hi> and <hi>the</hi> Giver <hi>his power of diſpoſing.</hi> So that <hi>Excellent Canon;</hi> and from a <hi>Popiſh</hi> Council! And, <hi>To the Extirpation of Pluralities, and Non-reſidences;</hi> without adding one word of Explication!</p>
+            <p>But near four hundred years before this time,<note place="margin">An Do. <hi>781. Prid.</hi> Conc. Sy<g ref="char:EOLhyphen"/>nopſ. Tom. <hi>3.</hi> Couc. Poſt. Act. <hi>7.</hi> Can. <hi>15.</hi>
+               </note> ano<g ref="char:EOLhyphen"/>ther <hi>General,</hi> and the <hi>ſecond Nicene Council,</hi> (as 'tis called) is found to have this <hi>Grain of Wheat,</hi> in a whole <hi>Heap of Tares: Let not a Clergy man be henceforth ſettled in two Churches: for, this belongs to Merchandiſe and filthy Lucre, and is alien from the Churches cuſtom: Every one therefore ought to abide where he is called, and to ſettle in one Church:</hi> So full and plain,<note place="margin">An Do. <hi>454. Prid.</hi> ubi ſupr. Tom. Concil. <hi>2.</hi> Act. <hi>15.</hi> Can. <hi>10.</hi>
+               </note> as to need no Comment! Nay, and three hundred years afore this laſt mention'd Council, that undoubted <hi>General one of Chalcedon</hi> (glanc'd on in the former Argument) nipt this miſ<g ref="char:EOLhyphen"/>chief in the <hi>Bud,</hi> and would not let it <hi>bloſſom;</hi> much leſs hear Ripe Fruit. For thus it ſaith, <hi>'Tis not lawful for a Clerk to be Intituled to</hi> (or inrolled in) two Churches: <hi>viz. That wherein he was Ordain'd at firſt, and the greater whereunto, for Vain-glories ſake, he goeth afterwards: but let ſuch men be brought back to their</hi> firſt; <hi>and</hi> only there <hi>attend their Duty.</hi> Which needs muſt bar all hopes of having Churches
+<pb n="13" facs="tcp:47348:9"/>more than one; or not diſcharging Duty by ones ſelf, where it was undertaken. But to conclude this point <hi>of General Councils,</hi> the late <hi>Trent Aſſembly,</hi> ſtyled by the <hi>Romaniſts,</hi>
+               <note place="margin">Decret de Re<g ref="char:EOLhyphen"/>form. C. <hi>17.</hi> Seſs. <hi>24.</hi>
+               </note> the <hi>laſt General Council;</hi> whatever the <hi>Deeds</hi> among them are, in <hi>Word</hi> con<g ref="char:EOLhyphen"/>demn this <hi>Practice.</hi> For, reciting that Speech of the Council of <hi>Chalcedon,</hi> (but juſt now mention'd) <hi>Neminem oportere in duabus Eccleſiis conſcribi,</hi> they exclaim againſt <hi>their</hi> wicked Covetouſneſs, who are graſping after many Benefices: and charge the whole Clergy, even <hi>Cardinals themſelves, To keep no more than one Cure of Souls:</hi> as may be ſeen at large in the place refer'd in the Margent. Nay, there were a<g ref="char:EOLhyphen"/>mong them <hi>then</hi> and <hi>there;</hi>
+               <note place="margin">Hiſt. Count. of Trent, <hi>l. 2. p. 253. ad An. 1547.</hi> Circ. med. &amp; <hi>l. 6.</hi> Anno <hi>1562.</hi> Engl. E<g ref="char:EOLhyphen"/>dit. <hi>pag. 496.</hi>
+               </note> and the <hi>major</hi> part of a <hi>General Congregation</hi> too; that did maintain, <hi>Both that Reſidency was required by the Law of God, and Pluralities by the ſame forbidden.</hi>
+            </p>
+            <p>Now adding hereunto, <hi>Pope</hi>
+               <note n="*" place="margin">Extrav. com. lib. <hi>3.</hi> Tit. <hi>2.</hi> De Praeb. &amp; Dign. Cap. <hi>5. Execrabilis.</hi>
+               </note> 
+               <hi>John 22th.</hi> his De<g ref="char:EOLhyphen"/>cree, That <hi>non (ſave Cardinals and Kings Sons) ſhall keep more than one Cure of Souls, and one Dig<g ref="char:EOLhyphen"/>nity without cure; upon pain of loſing both, in caſe of diſobedience:</hi> together with <hi>Pope</hi>
+               <note n="†" place="margin">Greg. De<g ref="char:EOLhyphen"/>cret. lib. <hi>3.</hi> Tit. <hi>5.</hi> De Praeb. &amp; Dign. C. <hi>28. De multa.</hi>
+               </note> 
+               <hi>Innocent</hi> the <hi>3d.</hi> his peremptory Determination, That <hi>whoſoever ac<g ref="char:EOLhyphen"/>cepts 1 Benefice with Cure, (having before another of that nature) ſhall be forthwith depriv'd thereof; and if he make a ſtir to keep it, ſhall forfeit both:</hi> now putting theſe Decrees of <hi>Popes,</hi> and <hi>Popiſh Councils</hi> all together, as I ſaid; 'tis worthy to be ſe<g ref="char:EOLhyphen"/>riouſly though on; whether it doth not caſt an ill Reflection on a <hi>Proteſtant Church, to connive at that,</hi> which very <hi>Papiſts</hi> do condemn? eſpecially, ſince both their <hi>Latter,</hi> as well as <hi>Elder Doctors,</hi>
+               <note place="margin">De Cleric. San<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>im, <hi>Cap. 11. Sect 4 Arg. 5. 6.</hi>
+               </note> are therein Unanimous, as a <hi>Learned Author</hi> of theirs, and in an <hi>Excellent Piece againſt Pluralities,</hi> hath evinced ſully. But we muſt make haſte.</p>
+            <pb n="14" facs="tcp:47348:10"/>
+            <p n="4">4.<note place="margin">§ 6. 4. Argument againſt Equity and Juſtice.</note> 
+               <hi>'Tis moſt apparently likewiſe againſt all Equity and Juſtice,</hi> That, <hi>Beneficium datur propter Officium, the Benefice is beſtowed for the Service that belongs unto it,</hi> Who is able to make a doubt of? Doth not every new Incumbent yield himſelf <hi>(accipere curam)</hi> to undertake the Cure; the <hi>Work</hi> and <hi>Duty</hi> that is; when he receives his Title from the Biſhops hands? Doth not the Apoſtle make it plain, That the Mini<g ref="char:EOLhyphen"/>ſters <hi>Reaping Carnal things is founded meerly upon Sowing Spiritual;</hi> as <hi>Miniſtring about holy things onely, could onely entitle to the right of Living on the things of the Temple;</hi> and <hi>waiting at the Altar, for pertaking with it?</hi> yes, he doth ſo: and he conclu<g ref="char:EOLhyphen"/>deth it <hi>Gods Ordinance now;</hi> That <hi>they who preach the Goſpel, ſhould live upon it,</hi> 1 Cor. 9.11, 13, 14. So that <hi>maintenance is only due for Service:</hi> which was <hi>our Saviours</hi> mind too, when he ſaid, That <hi>Meat</hi> belong'd to <hi>Workmen,</hi> Matth. 10.10. and <hi>Hire</hi> to <hi>Labourers,</hi> Luk. 10.7. And, who can be ignorant, or not ready to acknowledge it, that our <hi>Kings</hi> and <hi>other Benefactors,</hi> ſettled <hi>Glebes,</hi> and <hi>Tythes</hi> with us (which Law confirmeth) for the particular Service of thoſe Places, whence they riſe, and where<g ref="char:EOLhyphen"/>unto they are aſſigned? Thoſe Donations were upon ſuch Conditions; namely, <hi>That the People ſhould be there Attended, where the Miniſters were ſo Re<g ref="char:EOLhyphen"/>warded.</hi> And we know who ſaid, <hi>If it be but a mans Covenant,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> (or <hi>Teſtament) no man diſanulleth, or ad<g ref="char:EOLhyphen"/>deth thereunto,</hi> Gal. 3.15. So that <hi>Juſtice</hi> and <hi>Equity,</hi> as well as the <hi>Expreſs Law</hi> of God conclude, <hi>That he that Teacheth, is to be communicated to by him that is Taught, and not another,</hi> that doth not teach them, <hi>Gal.</hi> 6.6. Nay, as he that <hi>doth not work, muſt not eat at all,</hi> 2 Theſſ. 3.10. So, he may not have a <hi>double Meſs,</hi> that doth but <hi>ſingle Work,</hi> if <hi>that.</hi>
+            </p>
+            <pb n="15" facs="tcp:47348:10"/>
+            <p>What an <hi>
+                  <g ref="char:V">Ʋ</g>nequal,</hi> and an <hi>
+                  <g ref="char:V">Ʋ</g>nrighteous</hi> thing is it then, that <hi>one man</hi> ſhould take all the <hi>Pains,</hi> and <hi>another</hi> the <hi>Profit</hi> thereunto belonging? That <hi>La<g ref="char:EOLhyphen"/>bourers</hi> ſhould go without, and <hi>Loyterers</hi> bear away the <hi>Hire,</hi> and <hi>Reward</hi> from them? Why ſhould <hi>Lazy Pluraliſts</hi> expect the <hi>Pay,</hi> belonging unto <hi>La<g ref="char:EOLhyphen"/>borious Souldiers;</hi> or demand the <hi>Wages</hi> due to <hi>pain<g ref="char:EOLhyphen"/>ful Workman?</hi> Diligent Preachers are the <hi>One,</hi> and <hi>Other,</hi> in the Goſpel: but <hi>they</hi> are neither; in <hi>one of their Cures</hi> at leaſt. Can it be juſtified, that when I ſweat at plow all day; <hi>another,</hi> that did not ſo much as look on, ſhall carry away my <hi>Wages</hi> at night? Or, when I venture my Life in the Field, <hi>he</hi> that never ſtruck one Stroke, ſhould come at Muſter day, and take away my <hi>Pay?</hi> This is the Caſe betwixt the <hi>Painful Curate,</hi> and the <hi>Lazy Pluraliſt:</hi> and, <hi>what words are bad enough for the Iniquity of ſuch Deeds?</hi> Why may they not as well go into Peoples Houſes, and take away what Plate, or other things they have a mind unto; or ſtand upon the Road, and put the Moneys of thoſe men they meet with, into their own Pockets? Oh! There's a <hi>Jayl</hi> and <hi>Gibbet</hi> in theſe Caſes! But the <hi>Curſe of God,</hi> and <hi>Hell hereafter,</hi> are they nothing in the other? Well, that we may proceed.</p>
+            <p n="5">5. <hi>Tea, and againſt Charity too;</hi>
+               <note place="margin">
+                  <hi>§. 7. 5th.</hi> Argu<g ref="char:EOLhyphen"/>ment againſt Charity.</note> I mean not only, what is due to the <hi>Souls</hi> of Chriſtians, and their own alſo: which <hi>too many Pluraliſts,</hi> God knoweth, ſeem not to have a Stock of, that may ſo much as match the <hi>gleaning after Vintage.</hi> For, beſide the failing in his <hi>Perſonal Duty,</hi> which God requireth; how commonly do we ſee <hi>Ignorant,</hi> or <hi>Vitious Curates</hi> (whether will ſerve cheapeſt) give him good con<g ref="char:EOLhyphen"/>tent; if <hi>ſome men</hi> do not ſeek for ſuch: when the
+<pb n="16" facs="tcp:47348:11"/>Profits of the Place would well encourage, it may be <hi>Two,</hi> Learned, Pious, and painful Preachers; as the the neceſſity of a numerous Congregation probably may require the ſame. 'Tis certain, would they re<g ref="char:EOLhyphen"/>ſign their Super-numerary Living to a <hi>Worthy Suc<g ref="char:EOLhyphen"/>ceſſor,</hi> there would be proof of <hi>Chriſtian Love</hi> unto their <hi>Peoples Souls;</hi> and they ſhould thereby deliver <hi>their own</hi> from heavy Guilt.</p>
+            <p>But there is <hi>another kind of Charity</hi> alſo, which this Practice is at enmity with. The Pluraliſts know, vaſt numbers of <hi>Worthy Scholars,</hi> that are Miniſters; (in and out of the Univerſities) and ſome with the charge of Wife and Children on their hands; hardly find means to get them Bread: but <hi>they</hi> have ſeveral Hundreds; perhaps a Thouſand Pounds, or more, <hi>per annum,</hi> by their <hi>Cures,</hi> and <hi>Dignities</hi> the while: ſo that, though their <hi>Pains</hi> be that of <hi>Drones,</hi> yet they both eat the Fat, and drink the Sweet; live in their palaces, are Cloth'd in Silks, and keep their Coaches, with ample Retinues; and like <hi>them in Amos,</hi> 6.4, 5, 6. are never <hi>grieved for the Af<g ref="char:EOLhyphen"/>fliction of their Brother Joſeph,</hi> though brought upon him, by their <hi>
+                  <g ref="char:V">Ʋ</g>ncharitable, and <g ref="char:V">Ʋ</g>ngodly Covetouſ<g ref="char:EOLhyphen"/>neſs:</hi> beſides the <hi>manifeſt Injuſtice,</hi> as we have heard; Is there not the <hi>ſhutting up of bowels of Compaſſion,</hi> here? And conſequently, juſt cauſe, <hi>with fear,</hi> to ask; <hi>How dwelleth the</hi> Love of God in ſuch? 1 <hi>John</hi> 3.17. Their works proclaim, that it is the love of <hi>Money,</hi> (which is the Root of all Evil, 1 <hi>Tim.</hi> 6.10.) and of <hi>this World, (with which the Love of the Fa<g ref="char:EOLhyphen"/>ther cannot conſiſt,</hi> 1 John 2.15.) whereto they pay their Homage and ſtand Devoted. But let them remember; <hi>The Labourers Hire crieth, and the Cry doth enter into the Ears of the Lord of
+<pb n="17" facs="tcp:47348:11"/>Sabaoth:</hi> and <hi>themſelves</hi> are Deaf, if they do not hear it.</p>
+            <p n="6">6. <hi>Againſt Honour alſo;</hi> how <hi>unworthy</hi> is it,<note place="margin">
+                  <hi>§. 8. 6th.</hi> Argu<g ref="char:EOLhyphen"/>ment Againſt Honour.</note> for any man to accept, much more to <hi>Court,</hi> and <hi>ſue</hi> for, ſuch an Office, which he knows himſelf uncapable to diſcharge; and truly, never doth intend it? To be a <hi>Labourer</hi> in Chriſts Vineyard; and yet to <hi>Loyter</hi> out, one half of his work, at leaſt? To cry up, and magnifie <hi>Primitive Purer times;</hi> and live a perfect Non-conformiſt thereunto; To avow ſe<g ref="char:EOLhyphen"/>paration from an <hi>Apoſtate Church,</hi> and yet to keep ſo foul an inſtance of her Apoſtacy; which her ſelf, for very ſhame, <hi>by Words,</hi> is forced to condemn? To make a ſhew of Love to <hi>Juſtice</hi> and <hi>Charity,</hi> and indeed regard neither; but hate both? Is not this to play the <hi>Current;</hi> nay, the <hi>Errant Hypocrite?</hi> See then, <hi>how well</hi> our Pluraliſts do come off! <hi>How honourably</hi> they acquit themſelves! In a word: If it be <hi>Noble,</hi> to be <hi>falſe</hi> and <hi>negligent</hi> in the <hi>greateſt Truſt</hi> on Earth; to be <hi>
+                  <g ref="char:V">Ʋ</g>njuſt,</hi> and <hi>Cruel</hi> to our deareſt <hi>Brethren;</hi> to count <hi>Gain Godlineſs,</hi> and pre<g ref="char:EOLhyphen"/>fer <hi>Earth</hi> before <hi>Heaven:</hi> then, theſe <hi>Delinquents</hi> may paſs for <hi>men of Reputation:</hi> elſe, their own hands will <hi>lay their Honour in the duſt.</hi> This is ſo legible, that he that runs may read it.</p>
+            <p n="7">7. <hi>Againſt Prudence, beſide:</hi>
+               <note place="margin">
+                  <hi>§. 9. 7th.</hi> Argu<g ref="char:EOLhyphen"/>ment againſt Prudence.</note> As for <hi>Spiritual Wiſdom:</hi> that ſurely is utterly baniſhed hence. Were it poſſible elſe, that <hi>mens own,</hi> and <hi>Peoples Souls</hi> ſhould be poſtpon'd unto, and ſcorn'd in compariſon of the <hi>Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs?</hi> Nay, <hi>Common Prudence</hi> is abandon'd by theſe men! For, What can be more undiſcreet; than, when there is <hi>no need at all</hi> (as was at firſt ſuppoſed) to create themſelves the ill
+<pb n="18" facs="tcp:47348:12"/>Opinion of,<note place="margin">It was the ſaying of a merry fellow, That in Chri<g ref="char:EOLhyphen"/>ſtendom there were neither <hi>Scholars</hi> e<g ref="char:EOLhyphen"/>nough, <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> enough, nor <hi>Jews</hi> e<g ref="char:EOLhyphen"/>nough. And when anſwer was made him, there was ra<g ref="char:EOLhyphen"/>ther too great a plenty than any ſcarcity: he replied, if there were <hi>Scholars</hi> enough, ſo many would not be <hi>double</hi> or <hi>treble Beneficed:</hi> if <hi>Gentlemen</hi> enough, ſo many Peaſants would not be ranked among the Gentry: if <hi>Jews</hi> enough, ſo many Chriſtians would not profeſs Uſury. So Doctor <hi>Heylen</hi> prints the <hi>Scorn</hi> made of them, <hi>Coſmogr.</hi> Com. W. Genoa, at the be<g ref="char:EOLhyphen"/>ginning.</note> and become indeed <hi>juſt Scorn</hi> unto, the generality of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding, Sober,</hi> and <hi>Impartial</hi> Chriſtians? Is't not almoſt a proverb, Their only way to climb to Heaven, is by heaping Steeple upon Steeple, as the Gyants did one Mountain on another for that purpoſe? Certainly, <hi>themſelves</hi> cannot be ignorant, that the <hi>Gentry</hi> cenſure them, the <hi>People</hi> hate them, and their own <hi>Beſt Brethren</hi> grieve, and bluſh for them. Nor do they think it <hi>Wiſdom</hi> in the <hi>man</hi> that ſaid;
+<q>
+                  <l>—Populus me ſibilat: at mihi plaudo</l>
+                  <l>Ipſe domi; ſimulac nummos contemplor in arcâ.</l>
+               </q>
+            </p>
+            <p>In ſhort: They every where paſs for <hi>Perfect Drones,</hi> who feed, and fatten on the ſweat of others brows. And <hi>moſt men</hi> in their hearts, <hi>Ignavum fucos pecus a praeſepibus arcent:</hi> wiſhing the Magiſtrate would ſpeedily put <hi>his hands</hi> thereto.</p>
+            <p n="8">8.<note place="margin">
+                  <hi>§. 10. 8th.</hi> Argu<g ref="char:EOLhyphen"/>ment, ſerveth only to mens Corruptions.</note> Laſtly, The <hi>Pluralities ſpoken of are only ſer<g ref="char:EOLhyphen"/>viceable unto Covetouſneſs, Ambition, Pride, Luxury, Sloth, and <g ref="char:V">Ʋ</g>niverſal <g ref="char:V">Ʋ</g>nconſcionableneſs in the whole Chriſtian, and Miniſterial Calling.</hi> For Proof; do but conſider duly what hath been already ſpoken, and con<g ref="char:EOLhyphen"/>ſult your ſenſes therewithal, and more there is not need of. He that can ſhew the <hi>man</hi> that is not bated, but increaſed in his <hi>Diligence, Sobriety, Humility, Modeſty, Liberality,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Conſcience</hi> in Religion by <hi>Pluralities, Erit mihi magnus Apollo;</hi> ſhall be eſteem<g ref="char:EOLhyphen"/>ed one, that hath made an Obſervation, which the <hi>whole World hath hitherto been a perfect Stranger to.</hi>
+            </p>
+            <pb n="19" facs="tcp:47348:12"/>
+            <p>So many <hi>Evident Proofs</hi> being therefore made a<g ref="char:EOLhyphen"/>gainſt Pluralities, the Bill muſt needs be found, a Ver<g ref="char:EOLhyphen"/>dict given, and Sentence paſt thereon, for Condem<g ref="char:EOLhyphen"/>nation of them.</p>
+            <p>But what <hi>Criminal</hi> is there,<note place="margin">
+                  <hi>§. 11.</hi> Pleas urg'd, and anſwer'd.</note> but will ſay ſomething for himſelf: or what <hi>Cauſe</hi> ſo bad, but that <hi>one Plea</hi> or other, ſhall be made for it?</p>
+            <p>We ſhall therefore fairly hear what the <hi>Delinquent,</hi> with whom we have to do, can plead in the <hi>defence;</hi> or at the leaſt, <hi>excuſe</hi> of the Guilt imputed to him.</p>
+            <p n="1">1.<note place="margin">1ſt. <hi>Plea.</hi>
+               </note> 
+               <hi>Learned and Good Miniſters have been found to do ſo; and it hath been uſed for many ages in the Church.</hi>
+            </p>
+            <p>Admit, That <hi>Learned,</hi> and <hi>Good Men</hi> too,<note place="margin">Anſwer.</note> have done it, (<hi>for who am</hi> I to judge mens States with God, nor dare I but to maintain ſuch thoughts of ſome;) nei<g ref="char:EOLhyphen"/>ther <hi>ſound Learning,</hi> and much leſs <hi>True Godlineſs,</hi> could prompt them to it; as by what above appear<g ref="char:EOLhyphen"/>eth. All Stories, and the <hi>moſt Sacred</hi> too, afford too many Inſtances of <hi>ſome Good Mens great Miſcarriages.</hi> And the <hi>very Beſt</hi> do yet know but in part: and can therefore do not better. However, <hi>we are to follow a very</hi> Paul, <hi>but as he doth Chriſt.</hi> As for the <hi>length of time,</hi> wherein it hath been uſed: we heard before, how <hi>Old</hi> it was; younger by a great many hundred years, than Chriſtianity; and <hi>born with Antichriſt.</hi> But could it write <hi>a great deal Elder;</hi> what were it worth, whilſt we can truly ſay, <hi>From the beginning it was not ſo.</hi> This Plea is therefore Silenc'd by St. <hi>Cyp<g ref="char:EOLhyphen"/>rian: Cuſtom without Truth, is but the Antiquity of an Errour.</hi>
+               <note place="margin">
+                  <hi>Conſuetudo ſine veritate eſt vetuſtas erroris</hi> Ep. ad Pomp. prop. fin. 2d. <hi>Plea.</hi> Anſwer.</note>
+            </p>
+            <p n="2">2. <hi>The Law allows</hi> (with Qualification) <hi>to take another Church.</hi>
+            </p>
+            <p>What <hi>Eccleſiaſtical Laws</hi> require you in the Caſe, hath been heard already: and in a perfect Contra<g ref="char:EOLhyphen"/>diction to this Plea. And a man would think, that
+<pb n="20" facs="tcp:47348:13"/>
+               <hi>Good Church-Laws</hi> ſhould have no little value with <hi>Good Church-men.</hi> Doubtleſs if the <hi>Church</hi> forbid, though the <hi>State</hi> allow; ſuch men, as thoſe, ſoon know, not only that <hi>forbearance</hi> is the ſafer <hi>Choice,</hi> but manifeſt Duty to them. However, no Humane Laws (whatever <hi>Rome</hi> ſhall ſay) can diſpenſe with the Law of God: and <hi>that,</hi> we have already found moſt peremptory in the Negative. Touching the <hi>Common,</hi> or the <hi>Statute Laws</hi> with us, I muſt confeſs great ignorance in them: but yet that worthy Knight, and Lawyer too,<note place="margin">Parſ. Counſ. p. <hi>1.</hi> C. <hi>7.</hi>
+               </note> Sir <hi>Simon Degge</hi> will tell you, That the <hi>Commons of</hi> England <hi>always complained againſt Pluralities and Non-reſidence:</hi> and <hi>many Parliaments under ſeveral Popiſh Kings mov'd for ſeveral Penal<g ref="char:EOLhyphen"/>ties againſt them.</hi> And whatſoever allowance in that Caſe is made by Law, was done in times of <hi>Popery:</hi> which gives no cauſe to <hi>Proteſtants</hi> to be fond thereof. This I am ſure of, Thoſe that will think <hi>all good,</hi> that Humane Laws (whenſoever made) allow of; muſt quickly think <hi>many thing bad,</hi> which Divine Laws enjoyn us. And then let them paſs for never <hi>ſo Loyal Subjects</hi> to their <hi>Temporal Prince,</hi> they muſt <hi>prove Rebels to the King of Kings.</hi>
+            </p>
+            <p n="3">3.<note place="margin">3d. <hi>Plea.</hi>
+               </note> 
+               <hi>Two ſmaller, though far diſtant Pariſhes may be better cared for by one Miniſter, than many a ſingle Great One, in ſome Towns and Cities; eſpecially</hi> Lon<g ref="char:EOLhyphen"/>don.</p>
+            <p>'Tis ſomewhat odd (methinks) to offer this Com<g ref="char:EOLhyphen"/>pariſon; If it be meant,<note place="margin">Anſwer.</note> that there are <hi>ſome</hi> ſo <hi>ex<g ref="char:EOLhyphen"/>ceeding numerous Congregations,</hi> that they are too great a Charge for the beſt qualified Miniſter to undertake: I ſay, that, <hi>firſt,</hi> 'Tis pity but the State ſhould take meet care about it; either by making more Churches, or providing more Miniſters for them; <hi>next,</hi> that no man is compell'd to take up a burden (of this kind)
+<pb n="21" facs="tcp:47348:13"/>as is like to break his back. <hi>Laſtly,</hi> That if he be en<g ref="char:EOLhyphen"/>gaged already; he muſt either lay it down, or take in help unto him: to be ſure, at leaſt, he is obliged to lay out the utmoſt of himſelf therein; and then he may have hopes of a more than ordinary bleſſing with him. But for <hi>Two Places,</hi> and <hi>far diſtant,</hi> it is not poſſible that a ſingle Perſon can diſcharge the Duty of them both; and therefore <hi>'tis a mockery,</hi> to talk of doing it <hi>better,</hi> when it cann't be <hi>done at all.</hi>
+            </p>
+            <p n="4">4.<note place="margin">4th. <hi>Plea.</hi>
+               </note> 
+               <hi>All Church-Livings are the Churches Common Bank: and therefore She may diſpoſe thereof at Her diſcretion; provided all the Churches ſhall be taken care of duly.</hi>
+            </p>
+            <p n="1">1.<note place="margin">Anſw. <hi>1.</hi>
+               </note> But we ſee <hi>Pluralities</hi> never ſuffer <hi>ſuch due Care</hi> to be taken of <hi>all particular Congregations</hi> wants. And who would make new ventures, where all before him had miſcarried?</p>
+            <p n="2">2. And then, not only <hi>Two,</hi> but <hi>Ten,</hi> or <hi>Twenty,</hi>
+               <note place="margin">2.</note> or an <hi>Hundred</hi> Cures, or <hi>more,</hi> (for what ſhould hinder, if ſupplies be made?) may be aſſigned to <hi>one man.</hi> And this were a Monopoly, I think, the <hi>boldeſt Plu<g ref="char:EOLhyphen"/>raliſt</hi> would never ſeek a Patent for.</p>
+            <p n="3">3. nay, wherefore truly,<note place="margin">3.</note> ſhould not the <hi>Biſhop</hi> take all the Profits of all the Livings within his Dio<g ref="char:EOLhyphen"/>ceſs into his own hands; allowing Penſions, which he thought convenient, to thoſe that ſhould officiate in the ſeveral Pariſhes?</p>
+            <p n="4">4. Laſtly, But we do ſee, that <hi>Glebes,</hi>
+               <note place="margin">4.</note> and <hi>Tythes</hi> ought <hi>both</hi> of <hi>Right,</hi> and do by Law, belong unto <hi>particular Pariſh-Churches,</hi> whence they ariſe; and for encouragement of thoſe <hi>particular Miniſters,</hi> who labour and take pains among them: as was before evinced.</p>
+            <p n="5">5.<note place="margin">5th. <hi>Plea.</hi>
+               </note> 
+               <hi>Why? But, indeed, the Biſhop hath the Care of all the Churches in his Dioceſs, be they never ſo many:
+<pb n="22" facs="tcp:47348:14"/>Why may not then a Preſbyter take the Care of Two? and put one other in his room, as he doth many?</hi>
+            </p>
+            <p n="1">1.<note place="margin">Anſw. <hi>1.</hi>
+               </note> Had we nothing elſe to ſay but that, <hi>not mens Example, but Gods Word muſt be our Rule;</hi> that were enough to baffle this Pretence. We heard before, where God hath made men <hi>Watchmen,</hi> or <hi>Overſeers;</hi> they owe a <hi>Perſonal Attendance</hi> on the reſpective <hi>Flocks,</hi> and <hi>all</hi> among them.</p>
+            <p n="2">2.<note place="margin">2.</note> Our Biſhops Charge lies purely here; to ſee, as far as in him lieth, that you diſcharge your duty to the <hi>Flock,</hi> and they to you, and unto one another, and all to God: or elſe to deal with <hi>Both</hi> or <hi>Either,</hi> according to the Rules of Government. You under<g ref="char:EOLhyphen"/>take, and that unto the Biſhop, the <hi>other Part</hi> of their <hi>Inſtruction:</hi> wherein, 'tis <hi>likely,</hi> that you quit you very well, in not ſeeing their Pulpit in a twelve month once!</p>
+            <p n="3">3.<note place="margin">3.</note> Laſtly, <hi>If</hi> (as you ſay) <hi>the Biſhop putteth off his Care to you, why may not you do ſo with yours un<g ref="char:EOLhyphen"/>to another?</hi> Beſides the Errour laſt taken notice of; I would alſo ask; <hi>Why may not alſo that other, whom you truſt, put off his Care unto a Third; that Third unto a Fourth: he unto a Fifth: and ſo in Infinitum?</hi> Till at the laſt, <hi>Every Body</hi>'s <hi>work,</hi> (according to our Proverb) <hi>be no Body</hi>'s <hi>work:</hi> and you ſhall make the <hi>moſt Careleſs buſineſs</hi> in the World, of the <hi>moſt Careful Office</hi> that belongeth to it!</p>
+            <p n="6">6.<note place="margin">6th. <hi>Plea.</hi>
+               </note> 
+               <hi>Laſtly, But the Pluraliſt hath a Curate, that diſchargeth all the Duty whereunto himſelf is bound. And to do it by another, is as well as if himſelf had done it.</hi>
+            </p>
+            <p>It may be better,<note place="margin">Anſw. <hi>1.</hi>
+               </note> For though <hi>too many Curates</hi> are but Sorry Things; 'tis to be fear'd, <hi>moſt Pluraliſts</hi> are a great deal worſe.</p>
+            <p>But <hi>1ſt.</hi> We have heard already what <hi>a late Inven<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb n="23" facs="tcp:47348:14"/>this of <hi>Curates</hi> is. But if, when God <hi>commands</hi> a Miniſter to <hi>watch, and warn, to teach, and feed his Flock himſelf,</hi> the Pluraliſt thinks ſtill <hi>well enough,</hi> and that he is obedient unto thoſe Commands, ſo long as <hi>another</hi> doth it for him: I would ask him, why he ſhould not fulfil <hi>all other Commands</hi> the ſame way too? Let another <hi>Repent, Believe, Love God,</hi> and <hi>Forſake Sin</hi> for him alſo, and not <hi>himſelf;</hi> And ſo at laſt, let <hi>another</hi> be ſaved for him too: and <hi>himſelf</hi> be loſt for ever! The Arguing is as good in the one, as in the other Caſe.</p>
+            <p n="2">2. If <hi>another</hi> may do it for him: why may not <hi>La-men,</hi> as well as <hi>Clerks</hi> be preſented, inſtituted, and inducted into <hi>Church-Livings</hi> alſo? Nay, why ſhould <hi>Women</hi> be excluded from an equal ſhare in ſuch a Priviledge? <hi>Theſe</hi> are as capable of diſcharging the Duty of thoſe Places by the <hi>way of Curates,</hi> as well as <hi>Miniſters</hi> are: and, probably, it might prove better for the People <hi>ſo,</hi> than otherwiſe. For we may reaſonably think, that <hi>moſt of them</hi> would make <hi>better allowances,</hi> and ſo find <hi>better Subſtitutes</hi> than the <hi>Covetous Pluraliſt</hi> ordinarily doth.</p>
+            <p n="3">3. Once more, either the Curate is a <hi>bad,</hi>
+               <note place="margin">3.</note> or <hi>good man;</hi> and <hi>worſe,</hi> or <hi>better</hi> than the <hi>Pluraliſt</hi> is him<g ref="char:EOLhyphen"/>ſelf? If he be <hi>Bad;</hi> where is <hi>the</hi> Conſcience, to ſend a <hi>Wolf to tend the Sheep?</hi> Bad Curates are worſe than <hi>Thieves</hi> and <hi>Robbers:</hi> they are <hi>Soul-Deſtroyers</hi> And ſhould <hi>he be rewarded,</hi> that ſends a man to kill and ſlay the Peoples Souls! If he be but <hi>worſe,</hi> than <hi>he</hi> that ſends him: what reaſon is there, that we ſhould pay <hi>whole wages,</hi> when but <hi>half our work</hi> is done? What! Give a Maſter-workmans Hire, to one that's newly come unto, and can do little at the Trade? If he be <hi>good;</hi> Why ſhould he do all the work, and do it well, and not have half, perhaps not
+<pb n="24" facs="tcp:47348:15"/>a fifth, or ſeventh, or tenth part of the Wages due thereto? If <hi>better</hi> than his <hi>Sender</hi> too: Why ſhould the <hi>worſt</hi> be beſt rewarded? Nay, Why <hi>one Penny,</hi> where there is no <hi>Pater Noſter?</hi> It ſeems, <hi>this</hi> is the <hi>Hireling,</hi> and the <hi>Curate</hi> the <hi>True Shepherd.</hi> And 'tis a thouſand pities that <hi>be,</hi> ſo ill deſerving, ſhould have the Charge and Profit of <hi>two Flocks;</hi> and <hi>this,</hi> with ſo much merit, <hi>of none.</hi>
+            </p>
+            <p>Thus all the <hi>Pluraliſts</hi> Pleas are inſufficient to ſave him harmleſs: and that <hi>Evil Practice,</hi> whereof he is indicted, muſt be pronounced hateful both to <hi>God</hi> and <hi>Men.</hi> As what is plainly againſt the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures, Antiquity, Canons, Juſtice, Charity, Honour,</hi> and <hi>Prudence</hi> too; ſerving none other Ends, than of <hi>down-right <g ref="char:V">Ʋ</g>ngodlineſs.</hi>
+            </p>
+            <p>For a Concluſion,<note place="margin">
+                  <hi>§. 12.</hi> Concluſion, with Addreſs in greateſt Se<g ref="char:EOLhyphen"/>riouſneſs unto Pluraliſts.</note> I ſhall apply my ſelf, and briefly, to thoſe concerned in the Guilt before detected.</p>
+            <p>
+               <hi>Fathers and Brethren,</hi> the practice you are found in, appeareth bad above excuſe: Will you be per<g ref="char:EOLhyphen"/>ſuaded to reflect thereon in the fear of God? You own your ſelves,<note place="margin">For the <hi>Churches</hi> Ser<g ref="char:EOLhyphen"/>vice.</note> 
+               <hi>True Sons of the Church of England:</hi> and can you be perſuaded, ſuch a behaviour is to her Service, and Reputation? Do you not know, <hi>Mo<g ref="char:EOLhyphen"/>nopolies</hi> in the <hi>State,</hi> are not more miſchievous than <hi>Pluralities</hi> in the <hi>Church?</hi> It were but little, to bid you conſult your Memories, or ask your Fathers, for the Odium they have brought of old: Whether, <hi>For men to ſeek their own, and not the things of Chriſt</hi> be not of influence moſt pernicious, and deſtructive, let Holy Scriptures judge. How much this evil con<g ref="char:EOLhyphen"/>tributed to her <hi>late Calamity,</hi> cann't be forgotten: and how near unto a Death-bed it hath been helping to bring Her <hi>now,</hi> he cann't but ſee, that will not wilfully ſhut his Eyes. Is it nothing to you, although <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> do reproach Her, and <hi>Papiſts</hi> ruine Her; pro<g ref="char:EOLhyphen"/>vided,
+<pb n="25" facs="tcp:47348:15"/>you be at dividing of the Spoil, and come in for a Childs part? Is this to be <hi>Legitimate,</hi> and no <hi>Baſtards!</hi> If the <hi>True Mother</hi> would not have Her <hi>Son</hi> divided, and ſo deſtroyed: they are ſurely <hi>falſe Sons,</hi> that make no matter though the <hi>Mother</hi> be ſerved ſo!</p>
+            <p>Again;<note place="margin">Gods Honour.</note> Have you not taken on you a <hi>Calling</hi> that is moſt <hi>Honourable,</hi> and yet moſt <hi>Careful,</hi> of any other in the World? you are <hi>Gods Miniſters; Chriſts Ambaſſadors!</hi> Can you <hi>ſufficiently</hi> be concern'd for your Maſters Honour, and your own Duty? And, do not your Proceedings plainly argue neglect, if not with Scorn, to both? They make you <hi>Labourers,</hi> and you are <hi>Loiterers!</hi> You undertake to <hi>work,</hi> but yet are <hi>idle!</hi> At very beſt, diſcharge but half of that you charge your ſelves withal! you are to mind your <hi>Maſters Service:</hi> whilſt you are only <hi>ſerving of your ſelves!</hi> Let others tend, and feed the Flock; ſo you make ſure of the Fleece! Is there any thing elſe your Practice, ſpeaks your care for? You dare not to deny that your Commiſſion runs, To <hi>Preach the Word; be inſtant in, and out of ſeaſon; Reprove, Rebuke, Exhort, with all Long Suffering and Doctrine. To feed all the Flock, over which the Holy Ghoſt hath made you Overſeers:</hi> and ſo <hi>to feed them</hi> with you; as <hi>not for filthy lucre, but of a ready mind.</hi> You do it not: and are uncapable, in far diſtant Congrega<g ref="char:EOLhyphen"/>tions, were you of never ſo ready a mind.</p>
+            <p>Laſtly, The Souls committed to you,<note place="margin">And <hi>Souls</hi> Salvation, their Peoples and their own.</note> and under<g ref="char:EOLhyphen"/>taken by you, ſhould make you tremble, both for <hi>them,</hi> and for <hi>your ſelves,</hi> when you conſider, how careleſly you treat them both. To talk of taking care by <hi>others,</hi> when God expects it by <hi>your ſelves,</hi> is vain, and idle; is vile, and unexcuſable! Will it paſs with <hi>you,</hi> to bid your Servant do ſuch, or ſuch
+<pb n="26" facs="tcp:47348:16"/>a buſineſs carefully, that is of great concernment to you; and he ſhall take his eaſe, and pleaſure; and without your privity ſet another to perform it any how? Will a <hi>Prince</hi> endure that his Ambaſſador, Commiſſion'd, and Equipped for an Affair of his Crown and Kingdom, ſhould make (and for the Tythe too (may be) of his Salary) a <hi>Subſtitute</hi> without his Licence? And, dare you ſerve the <hi>King of Kings</hi> thus? And, in a matter of his Kingdom? And, for the baſe reſpect of putting Money in your Pockets? For 'tis juſt thus. You pretend his Com<g ref="char:EOLhyphen"/>miſſion: undertake the Charge: to be ſure take the Profits: and, without Gods leave, imploy your <hi>Hire<g ref="char:EOLhyphen"/>ling</hi> in the Service. How the Affair ſucceeds, you trouble not your thoughts! whether Gods Kingdom get or loſe: his Subjects be encreaſed or diminiſhed, and peoples Souls be ſav'd or damn'd eternally, you neither do, nor can, at diſtance, concern your ſelves according to your Duty. So little do you prize the purchaſe of Chriſts Blood; the Souls of Sinners, and your own! but, be you ſure, the end muſt pay for all: and 'twill not go thus cheap at laſt, whate're you think on't now. The Lord hath ſpoken it, <hi>When I ſay unto the Wicked, thou ſhalt ſurely dye, and thou giveſt him not warning: he ſhall dye in his Iniquity: but his Blood will I Require at they Hands.</hi>
+            </p>
+            <p>
+               <hi>Reverend Sirs,</hi> would you but ſeriouſly ponder theſe things, how could you be able not to renounce the Wages of Unrighteouſneſs, and honeſtly labour in the <hi>Single Lot of Chriſts Vineyard,</hi> for the Fruits you eat thereof; leaving the increaſe of <hi>other Fields</hi> un<g ref="char:EOLhyphen"/>to the particular Dreſſers of them? Surely, you would then conclude, <hi>one Flock</hi> would find you work enough, if you attend the ſame with Conſcience. If not; <hi>one</hi> is <hi>too many:</hi> Why have you <hi>any at all?</hi>
+               <pb n="27" facs="tcp:47348:16"/>How will you anſwer for your negligence at Chriſts Tribunal? But to graſp more Buſineſs, and what, it is impoſſible, were you never ſo willing, never ſo able, to go through with; is as void of <hi>Reaſon,</hi> as <hi>Religion!</hi> For indeed, you tell the World, That <hi>it is not Work, but Wages you look after.</hi>
+            </p>
+            <p>However remember, if <hi>Souls</hi> miſcarry through your neglect, your own muſt anſwer for them. Let then the <hi>Hire,</hi> and <hi>Labour,</hi> go hand in hand, as they ought to do, to thoſe that can, and will attend the ſame with faithfulneſs. <hi>What God</hi> (and Man) <hi>have joyned together,</hi> far be it from you to <hi>put,</hi> or longer keep <hi>aſunder.</hi> Forget not, that you are <hi>Stewards,</hi> by your Office. And <hi>'tis required in Stewards,</hi> ſaith the Apoſtle, <hi>that they be found faithful.</hi>
+            </p>
+            <p>
+               <hi>Who then is that faithful, and wiſe Servant, whom his Lord hath made Ruler over his Houſhold, to give them their portion of Meat in due Seaſon? Bleſſed is that Man, whom his Lord, when he cometh, ſhall find ſo doing,</hi> Luk. 12.42, 43.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:47348:17"/>
+            <head>ERRATA'S.</head>
+            <p>TO the Reader, laſt line ſave two, read, <hi>to that purpoſe.</hi> pag. 1. line 24. read, on. <hi>ibid.</hi> l. 28. r. But yet p. 3. Marg. to l. 32. 1 <hi>Iòm.</hi> p. 6. l. 17. r. <hi>v.</hi> 20. p. 10. l. 28. r. diſcovered. p. 11. Marg. r. Contr. Fauſt. <hi>l.</hi> 20. <hi>c.</hi> 21. p. 13. l. 13. r. refer'd to. p. 19. l. 16. r. True Goodneſs. p. 20. l. 14. r. for ſevereſt Penalties. p. 23. l. 3. r. thinks 'tis well, with many other Miſtop<g ref="char:EOLhyphen"/>pings.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Lately Printed for <hi>Tho. Parkhurſt.</hi>
+            </head>
+            <p n="1">
+               <hi>1.</hi> ONe hundred ſelect Sermons on ſeveral Texts, moſt upon Publick Occaſions by <hi>Tho. Hor<g ref="char:EOLhyphen"/>ton</hi> D. D. late of St. <hi>Hellens, London.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> A Diſcourſe concerning the Actual Providence of God, by <hi>John Collings D. D.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> An Expoſition on the ſix firſt Chapters of the <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> by <hi>Charles Phelps.</hi>
+            </p>
+            <p n="4">
+               <hi>4.</hi> The Kingdom of God among Men. A Tract of the Sound State of Chriſtianity, by <hi>John Corbet</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel.</p>
+            <p n="5">
+               <hi>5.</hi> Chriſt Diſplay'd. Publiſhed by <hi>Oliver Heywood.</hi>
+            </p>
+            <p n="6">
+               <hi>6.</hi> A Diſcourſe of Grace and Temptation, by <hi>Tho. Froyſell,</hi> late of <hi>Chin</hi> in <hi>Shropſhire.</hi>
+            </p>
+            <p n="7">
+               <hi>7.</hi> Beſt way to mend the World, by <hi>Sam. Perk</hi> Mi<g ref="char:EOLhyphen"/>niſter at <hi>Poplar</hi> near <hi>Stepney.</hi>
+            </p>
+            <p n="8">
+               <hi>8.</hi> Art of Divine Meditation, by the Author of the Godly mans Ark.</p>
+            <p n="9">
+               <hi>9.</hi> Glimps of Eternity, by <hi>Abraham Caley.</hi>
+            </p>
+            <pb facs="tcp:47348:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
